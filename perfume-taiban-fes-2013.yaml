@@ -1,0 +1,46 @@
+ずっと好きだったんじゃけぇ～さすらいの麺カタPerfume FES!!:
+  id: 5
+  is_mixed_tour: 1
+  access_key: perfume-taiban-fes-2013
+  artist: Perfume
+  description: http://www.perfume-web.jp/
+  lives:
+    - id: 107
+      name: Zepp DiverCity with 斉藤和義
+      open: 2013/05/29 18:00
+      start: 2013/05/29 19:00
+      place: Zepp DiverCity
+      place_for_search: "東京都江東区青海１丁目１ Zepp DiverCity (TOKYO)"
+    - id: 108
+      name: Zepp DiverCity with 斉藤和義
+      open: 2013/05/30 18:00
+      start: 2013/05/30 19:00
+      place: Zepp DiverCity
+      place_for_search: "東京都江東区青海１丁目１ Zepp DiverCity (TOKYO)"
+    - id: 109
+      name: Zepp Nagoya with 奥田民生
+      open: 2013/06/04 18:00
+      start: 2013/06/04 19:00
+      place: Zepp Nagoya
+    - id: 110
+      name: Zepp Nagoya with 奥田民生
+      open: 2013/06/05 18:00
+      start: 2013/06/05 19:00
+      place: Zepp Nagoya
+    - id: 111
+      name: Zepp Namba with マキシマム ザ ホルモン
+      open: 2013/06/17 18:00
+      start: 2013/06/17 19:00
+      place: Zepp Namba
+      place_for_search: "大阪府大阪市浪速区敷津東２丁目１−３９ Ｚｅｐｐ Ｎａｍｂａ（ＯＳＡＫＡ）"
+    - id: 112
+      name: Zepp Namba with マキシマム ザ ホルモン
+      open: 2013/06/18 18:00
+      start: 2013/06/18 19:00
+      place: Zepp Namba
+      place_for_search: "大阪府大阪市浪速区敷津東２丁目１−３９ Ｚｅｐｐ Ｎａｍｂａ（ＯＳＡＫＡ）"
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #prfm
+

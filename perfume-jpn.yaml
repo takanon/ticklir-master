@@ -1,0 +1,122 @@
+Perfume Third Tour 「JPN」:
+  id: 1
+  access_key: perfume-jpn
+  artist: Perfume
+  description: http://www.perfume-web.jp/
+  lives:
+    - id: 1
+      open: 2012/01/14 17:00
+      start: 2012/01/14 18:00
+      place: 神戸ワールド記念ホール
+      list:
+    - id: 2
+      open: 2012/01/15 15:00
+      start: 2012/01/15 16:00
+      place: 神戸ワールド記念ホール
+      list:
+    - id: 3
+      open: 2012/01/28 16:00
+      start: 2012/01/28 18:00
+      place: さいたまスーパーアリーナ
+      list:
+    - id: 4
+      open: 2012/01/29 14:00
+      start: 2012/01/29 16:00
+      place: さいたまスーパーアリーナ
+      list:
+    - id: 5
+      open: 2012/02/04 17:00
+      start: 2012/02/04 18:00
+      place: 朱鷺メッセ・新潟コンベンションセンター
+      list: prfm-jpn-120204-nigata
+    - id: 6
+      open: 2012/02/11 17:00
+      start: 2012/02/11 18:00
+      place: 福岡国際センター
+      list: prfm-jpn-120211-fukuoka
+    - id: 7
+      open: 2012/02/12 15:00
+      start: 2012/02/12 16:00
+      place: 福岡国際センター
+      list: prfm-jpn-120212-fukuoka
+    - id: 8
+      open: 2012/02/29 18:00
+      start: 2012/02/29 19:00
+      place: 日本ガイシホール
+      list: prfm-jpn-120229-nagoya
+    - id: 9
+      open: 2012/03/01 18:00
+      start: 2012/03/01 19:00
+      place: 日本ガイシホール
+      list: prfm-jpn-120301-nagoya
+    - id: 10
+      open: 2012/03/24 17:00
+      start: 2012/03/24 18:00
+      place: 静岡エコパアリーナ
+      list: prfm-jpn-120324-shizuoka
+    - id: 11
+      open: 2012/03/27 18:00
+      start: 2012/03/27 19:00
+      place: 大阪城ホール
+      list: prfm-jpn-120327-osaka
+    - id: 12
+      open: 2012/03/28 18:00
+      start: 2012/03/28 19:00
+      place: 大阪城ホール
+      list: prfm-jpn-120328-osaka
+    - id: 13
+      open: 2012/03/31 17:00
+      start: 2012/03/31 18:00
+      place: 広島グリーンアリーナ
+      list: prfm-jpn-120331-hiroshima
+    - id: 14
+      open: 2012/04/07 17:00
+      start: 2012/04/07 18:00
+      place: 愛媛県武道館
+      list: prfm-jpn-120407-ehime
+    - id: 15
+      open: 2012/04/14 17:00
+      start: 2012/04/14 18:00
+      place: 宮城セキスイハイムスーパーアリーナ
+      list: prfm-jpn-120414-sendai
+    - id: 16
+      open: 2012/04/21 17:00
+      start: 2012/04/21 18:00
+      place: 真駒内セキスイハイムアイスアリーナ
+      list: prfm-jpn-120421-sapporo
+    - id: 17
+      open: 2012/04/01 14:00
+      start: 2012/04/01 15:00
+      place: 広島グリーンアリーナ
+      list: prfm-jpn-120401-hiroshima
+    - id: 18
+      open: 2012/05/08 17:30
+      start: 2012/05/08 18:30
+      place: 日本武道館
+      list: prfm-jpn-120508-budoukan
+    - id: 19
+      open: 2012/05/09 17:30
+      start: 2012/05/09 18:30
+      place: 日本武道館
+      list: prfm-jpn-120509-budoukan
+    - id: 20
+      open: 2012/05/11 17:30
+      start: 2012/05/11 18:30
+      place: 日本武道館
+      list: prfm-jpn-120511-budoukan
+    - id: 21
+      open: 2012/05/12 16:30
+      start: 2012/05/12 17:30
+      place: 日本武道館
+      list: prfm-jpn-120512-budoukan
+    - id: 22
+      open: 2012/05/26 16:30
+      start: 2012/05/26 17:30
+      place: 沖縄・宜野湾海浜公園屋外劇場
+      list: prfm-jpn-120526-okinawa
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #prfm
+
+

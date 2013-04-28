@@ -1,0 +1,64 @@
+Perfume in Festival 2012:
+  id: 2
+  is_mixed_tour: 1
+  access_key: perfume-fes-2012
+  artist: Perfume
+  description: http://www.perfume-web.jp/
+  lives:
+    - id: 23
+      name: GO!FES 2012
+      open: 2012/03/17 11:00
+      start: 2012/03/17 17:30
+      place: 幕張メッセ国際展示場9・10・11ホール
+    - id: 30
+      name: MTV VIDEO MUSIC AWARDS JAPAN 2012
+      open: 2012/06/23 15:00
+      start: 2012/06/23 18:00
+      place: 幕張メッセイベントホール
+    - id: 24
+      name: ROCK IN JAPAN FESTIVAL 2012
+      open: 2012/08/04 08:00
+      start: 2012/08/04 10:30
+      place: 国営ひたち海浜公園
+    - id: 25
+      name: RISING SUN ROCK FESTIVAL 2012 in EZO
+      open: 2012/08/10 10:00
+      start: 2012/08/10 15:00
+      place: 石狩湾新港樽川ふ頭横野外特設ステージ
+      place_for_search: 石狩湾新港
+    - id: 26
+      name: SUMMER SONIC 2012 (大阪)
+      open: 2012/08/18 10:00
+      start: 2012/08/18 11:00
+      place: 舞洲アリーナ
+    - id: 27
+      name: SUMMER SONIC 2012 (東京)
+      open: 2012/08/19 09:00
+      start: 2012/08/19 11:00
+      place: QVCマリンフィールド
+    - id: 28
+      name: SPACE SHOWER SWEET LOVE SHOWER 2012
+      open: 2012/09/02 09:00
+      start: 2012/09/02 10:30
+      place: 山中湖交流プラザ きらら
+    - id: 29
+      name: DREAM FESTIVAL 2012
+      open: 2012/10/07 14:00
+      start: 2012/10/07 15:00
+      place: 国立代々木競技場第一体育館
+    - id: 97
+      name: Act Against AIDS 2012 「THE VARIETY 20」
+      open: 2012/11/30 17:30
+      start: 2012/11/30 18:30
+      place: 日本武道館
+    - id: 104
+      name: "rockin'on presents COUNTDOWN JAPAN 12/13"
+      open: 2012/12/28 12:00
+      start: 2012/12/28 13:00
+      place: 幕張メッセ
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #prfm
+
+

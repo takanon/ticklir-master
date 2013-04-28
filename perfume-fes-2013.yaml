@@ -1,0 +1,38 @@
+Perfume in Festival 2013:
+  id: 4
+  is_mixed_tour: 1
+  access_key: perfume-fes-2013
+  artist: Perfume
+  description: http://www.perfume-web.jp/
+  lives:
+    - id: 105
+      name: U-EXPRESS LIVE 2013
+      open: 2013/03/02 12:00
+      start: 2013/03/02 14:00
+      place: 幕張メッセ国際展示場9・10・11ホール
+    - id: 106
+      name: TOKYO METROPOLITAN ROCK FESTIVAL 2013
+      open: 2013/05/26 10:00
+      start: 2013/05/26 10:00
+      place: 新木場・若洲公園
+    - id: 113
+      name: ULTRA KOREA 2013
+      open: 2013/06/14 10:00
+      start: 2013/06/14 10:00
+      place: "韓国：JAMSIL OLYMPIC COMPLEX"
+      place_for_search: "JAMSIL OLYMPIC COMPLEX, 10 Jamsil-dong, Songpa-gu, Seoul, 大韓民国"
+    - id: 114
+      name: Amuse 35th Anniversary BBQ in つま恋 ～僕らのビートを喰らえコラ！～
+      open: 2013/07/13 09:00
+      start: 2013/07/13 12:00
+      place: ヤマハリゾートつま恋
+    - id: 115
+      name: Amuse 35th Anniversary BBQ in つま恋 ～僕らのビートを喰らえコラ！～
+      open: 2013/07/14 09:00
+      start: 2013/07/14 12:00
+      place: ヤマハリゾートつま恋
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #prfm
+
