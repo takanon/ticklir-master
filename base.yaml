@@ -1,0 +1,663 @@
+Perfume Third Tour 「JPN」:
+  id: 1
+  access_key: perfume-jpn
+  artist: Perfume
+  description: http://www.perfume-web.jp/
+  lives:
+    - id: 1
+      open: 2012/01/14 17:00
+      start: 2012/01/14 18:00
+      place: 神戸ワールド記念ホール
+      list:
+    - id: 2
+      open: 2012/01/15 15:00
+      start: 2012/01/15 16:00
+      place: 神戸ワールド記念ホール
+      list:
+    - id: 3
+      open: 2012/01/28 16:00
+      start: 2012/01/28 18:00
+      place: さいたまスーパーアリーナ
+      list:
+    - id: 4
+      open: 2012/01/29 14:00
+      start: 2012/01/29 16:00
+      place: さいたまスーパーアリーナ
+      list:
+    - id: 5
+      open: 2012/02/04 17:00
+      start: 2012/02/04 18:00
+      place: 朱鷺メッセ・新潟コンベンションセンター
+      list: prfm-jpn-120204-nigata
+    - id: 6
+      open: 2012/02/11 17:00
+      start: 2012/02/11 18:00
+      place: 福岡国際センター
+      list: prfm-jpn-120211-fukuoka
+    - id: 7
+      open: 2012/02/12 15:00
+      start: 2012/02/12 16:00
+      place: 福岡国際センター
+      list: prfm-jpn-120212-fukuoka
+    - id: 8
+      open: 2012/02/29 18:00
+      start: 2012/02/29 19:00
+      place: 日本ガイシホール
+      list: prfm-jpn-120229-nagoya
+    - id: 9
+      open: 2012/03/01 18:00
+      start: 2012/03/01 19:00
+      place: 日本ガイシホール
+      list: prfm-jpn-120301-nagoya
+    - id: 10
+      open: 2012/03/24 17:00
+      start: 2012/03/24 18:00
+      place: 静岡エコパアリーナ
+      list: prfm-jpn-120324-shizuoka
+    - id: 11
+      open: 2012/03/27 18:00
+      start: 2012/03/27 19:00
+      place: 大阪城ホール
+      list: prfm-jpn-120327-osaka
+    - id: 12
+      open: 2012/03/28 18:00
+      start: 2012/03/28 19:00
+      place: 大阪城ホール
+      list: prfm-jpn-120328-osaka
+    - id: 13
+      open: 2012/03/31 17:00
+      start: 2012/03/31 18:00
+      place: 広島グリーンアリーナ
+      list: prfm-jpn-120331-hiroshima
+    - id: 14
+      open: 2012/04/07 17:00
+      start: 2012/04/07 18:00
+      place: 愛媛県武道館
+      list: prfm-jpn-120407-ehime
+    - id: 15
+      open: 2012/04/14 17:00
+      start: 2012/04/14 18:00
+      place: 宮城セキスイハイムスーパーアリーナ
+      list: prfm-jpn-120414-sendai
+    - id: 16
+      open: 2012/04/21 17:00
+      start: 2012/04/21 18:00
+      place: 真駒内セキスイハイムアイスアリーナ
+      list: prfm-jpn-120421-sapporo
+    - id: 17
+      open: 2012/04/01 14:00
+      start: 2012/04/01 15:00
+      place: 広島グリーンアリーナ
+      list: prfm-jpn-120401-hiroshima
+    - id: 18
+      open: 2012/05/08 17:30
+      start: 2012/05/08 18:30
+      place: 日本武道館
+      list: prfm-jpn-120508-budoukan
+    - id: 19
+      open: 2012/05/09 17:30
+      start: 2012/05/09 18:30
+      place: 日本武道館
+      list: prfm-jpn-120509-budoukan
+    - id: 20
+      open: 2012/05/11 17:30
+      start: 2012/05/11 18:30
+      place: 日本武道館
+      list: prfm-jpn-120511-budoukan
+    - id: 21
+      open: 2012/05/12 16:30
+      start: 2012/05/12 17:30
+      place: 日本武道館
+      list: prfm-jpn-120512-budoukan
+    - id: 22
+      open: 2012/05/26 16:30
+      start: 2012/05/26 17:30
+      place: 沖縄・宜野湾海浜公園屋外劇場
+      list: prfm-jpn-120526-okinawa
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #prfm
+
+Perfume in Festival 2012:
+  id: 2
+  is_mixed_tour: 1
+  access_key: perfume-fes-2012
+  artist: Perfume
+  description: http://www.perfume-web.jp/
+  lives:
+    - id: 23
+      name: GO!FES 2012
+      open: 2012/03/17 11:00
+      start: 2012/03/17 17:30
+      place: 幕張メッセ国際展示場9・10・11ホール
+    - id: 30
+      name: MTV VIDEO MUSIC AWARDS JAPAN 2012
+      open: 2012/06/23 15:00
+      start: 2012/06/23 18:00
+      place: 幕張メッセイベントホール
+    - id: 24
+      name: ROCK IN JAPAN FESTIVAL 2012
+      open: 2012/08/04 08:00
+      start: 2012/08/04 10:30
+      place: 国営ひたち海浜公園
+    - id: 25
+      name: RISING SUN ROCK FESTIVAL 2012 in EZO
+      open: 2012/08/10 10:00
+      start: 2012/08/10 15:00
+      place: 石狩湾新港樽川ふ頭横野外特設ステージ
+      place_for_search: 石狩湾新港
+    - id: 26
+      name: SUMMER SONIC 2012 (大阪)
+      open: 2012/08/18 10:00
+      start: 2012/08/18 11:00
+      place: 舞洲アリーナ
+    - id: 27
+      name: SUMMER SONIC 2012 (東京)
+      open: 2012/08/19 09:00
+      start: 2012/08/19 11:00
+      place: QVCマリンフィールド
+    - id: 28
+      name: SPACE SHOWER SWEET LOVE SHOWER 2012
+      open: 2012/09/02 09:00
+      start: 2012/09/02 10:30
+      place: 山中湖交流プラザ きらら
+    - id: 29
+      name: DREAM FESTIVAL 2012
+      open: 2012/10/07 14:00
+      start: 2012/10/07 15:00
+      place: 国立代々木競技場第一体育館
+    - id: 97
+      name: Act Against AIDS 2012 「THE VARIETY 20」
+      open: 2012/11/30 17:30
+      start: 2012/11/30 18:30
+      place: 日本武道館
+    - id: 104
+      name: "rockin'on presents COUNTDOWN JAPAN 12/13"
+      open: 2012/12/28 12:00
+      start: 2012/12/28 13:00
+      place: 幕張メッセ
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #prfm
+
+Perfume WORLD TOUR 1st:
+  id: 3
+  access_key: perfume-asia-2012
+  artist: Perfume
+  description: http://www.perfume-global.com/
+  lives:
+    - id: 31
+      open: 2012/10/26 19:00
+      start: 2012/10/26 20:30
+      place: 台湾 NEO19内 Neo Studio
+      place_for_search: neo19
+    - id: 32
+      open: 2012/11/07 20:00
+      start: 2012/11/07 21:00
+      place: 香港 KITEC内 Rotunda3
+      place_for_search: "Star Hall, 香港"
+    - id: 33
+      open: 2012/11/17 18:00
+      start: 2012/11/17 19:00
+      place: 韓国 AX-KOREA
+    - id: 34
+      open: 2012/11/24 19:30
+      start: 2012/11/24 20:00
+      place: "シンガポール *Scape"
+      place_for_search: "*Scape, singapore 237978"
+    - id: 35
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "札幌シネマフロンティア"
+      no_countdown_tweet: 1
+    - id: 36
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "ユナイテッド・シネマ 札幌"
+      no_countdown_tweet: 1
+    - id: 37
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "フォーラム盛岡"
+      no_countdown_tweet: 1
+    - id: 38
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "ワーナー・マイカル・シネマズ名取"
+      no_countdown_tweet: 1
+    - id: 39
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "109シネマズ富谷"
+      no_countdown_tweet: 1
+    - id: 40
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "ワーナー・マイカル・シネマズ 福島"
+      no_countdown_tweet: 1
+    - id: 41
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 六本木ヒルズ"
+      no_countdown_tweet: 1
+    - id: 42
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "新宿バルト9"
+      no_countdown_tweet: 1
+    - id: 43
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 渋谷"
+      no_countdown_tweet: 1
+    - id: 44
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "シネマサンシャイン池袋"
+      no_countdown_tweet: 1
+    - id: 45
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "ワーナー・マイカル・シネマズ 板橋"
+      no_countdown_tweet: 1
+    - id: 46
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "ユナイテッド・シネマ 豊洲"
+      no_countdown_tweet: 1
+    - id: 47
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 西新井"
+      no_countdown_tweet: 1
+    - id: 48
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 南大沢"
+      no_countdown_tweet: 1
+    - id: 49
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 府中"
+      no_countdown_tweet: 1
+    - id: 50
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "ワーナー・マイカル・シネマズ むさし村山"
+      no_countdown_tweet: 1
+    - id: 51
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "横浜ブルク13"
+      no_countdown_tweet: 1
+    - id: 52
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 川崎"
+      no_countdown_tweet: 1
+    - id: 53
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "109シネマズ湘南"
+      no_countdown_tweet: 1
+    - id: 54
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 海老名"
+      no_countdown_tweet: 1
+    - id: 55
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "シネプレックス幕張"
+      no_countdown_tweet: 1
+    - id: 56
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 市川コルトンプラザ"
+      no_countdown_tweet: 1
+    - id: 57
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 流山おおたかの森"
+      no_countdown_tweet: 1
+    - id: 58
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "ワーナー・マイカル・シネマズ 浦和美園"
+      no_countdown_tweet: 1
+    - id: 59
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "MOVIXさいたま"
+      no_countdown_tweet: 1
+    - id: 60
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "イオンシネマ越谷レイクタウン"
+      no_countdown_tweet: 1
+    - id: 61
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "シネプレックスわかば"
+      no_countdown_tweet: 1
+    - id: 62
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "シネプレックス水戸"
+      no_countdown_tweet: 1
+    - id: 63
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "シネプレックスつくば"
+      no_countdown_tweet: 1
+    - id: 64
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 宇都宮"
+      no_countdown_tweet: 1
+    - id: 65
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "プレビ劇場ISESAKI"
+      no_countdown_tweet: 1
+    - id: 66
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "ワーナー・マイカル・シネマズ 新潟南"
+      no_countdown_tweet: 1
+    - id: 67
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "金沢コロナシネマワールド"
+      no_countdown_tweet: 1
+    - id: 68
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "アイシティシネマ"
+      no_countdown_tweet: 1
+    - id: 69
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "静岡東宝会館"
+      no_countdown_tweet: 1
+    - id: 70
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 浜松"
+      no_countdown_tweet: 1
+    - id: 71
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "109シネマズ名古屋"
+      no_countdown_tweet: 1
+    - id: 72
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "ワーナー・マイカル・シネマズ 大高"
+      no_countdown_tweet: 1
+    - id: 73
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "安城コロナシネマワールド"
+      no_countdown_tweet: 1
+    - id: 74
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 木曽川"
+      no_countdown_tweet: 1
+    - id: 75
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "MOVIX三好"
+      no_countdown_tweet: 1
+    - id: 76
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "ワーナー・マイカル・シネマズ 各務原"
+      no_countdown_tweet: 1
+    - id: 77
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "ワーナー・マイカル･シネマズ 鈴鹿"
+      no_countdown_tweet: 1
+    - id: 78
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 梅田"
+      no_countdown_tweet: 1
+    - id: 79
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "梅田ブルク7"
+      no_countdown_tweet: 1
+    - id: 80
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ なんば"
+      no_countdown_tweet: 1
+    - id: 81
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 鳳"
+      no_countdown_tweet: 1
+    - id: 82
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 二条"
+      no_countdown_tweet: 1
+    - id: 83
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "MOVIX京都"
+      no_countdown_tweet: 1
+    - id: 84
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "109シネマズHAT神戸"
+      no_countdown_tweet: 1
+    - id: 85
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 西宮OS"
+      no_countdown_tweet: 1
+    - id: 86
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "ワーナー・マイカル・シネマズ加古川"
+      no_countdown_tweet: 1
+    - id: 87
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 岡南"
+      no_countdown_tweet: 1
+    - id: 88
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "109シネマズ広島"
+      no_countdown_tweet: 1
+    - id: 89
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "広島バルト11"
+      no_countdown_tweet: 1
+    - id: 90
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "福山コロナシネマワールド"
+      no_countdown_tweet: 1
+    - id: 91
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "シネマサンシャイン衣山"
+      no_countdown_tweet: 1
+    - id: 92
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "ワーナー・マイカル・シネマズ 高松"
+      no_countdown_tweet: 1
+    - id: 93
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "T・ジョイ博多"
+      no_countdown_tweet: 1
+    - id: 94
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ 天神"
+      no_countdown_tweet: 1
+    - id: 95
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "シネプレックス熊本"
+      no_countdown_tweet: 1
+    - id: 96
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "シネマQ"
+      no_countdown_tweet: 1
+    - id: 98
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "お台場シネマメディアージュ"
+      no_countdown_tweet: 1
+    - id: 99
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "T・ジョイ大泉"
+      no_countdown_tweet: 1
+    - id: 100
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "T・ジョイ蘇我"
+      no_countdown_tweet: 1
+    - id: 101
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "T・ジョイリバーウォーク北九州"
+      no_countdown_tweet: 1
+    - id: 102
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "台湾 Vie Show Cinemas Taipei Hsin Yi"
+      no_countdown_tweet: 1
+    - id: 103
+      open: 2012/11/24 20:00
+      start: 2012/11/24 20:00
+      place: "TOHOシネマズ日劇"
+      no_countdown_tweet: 1
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #prfm
+Perfume in Festival 2013:
+  id: 4
+  is_mixed_tour: 1
+  access_key: perfume-fes-2013
+  artist: Perfume
+  description: http://www.perfume-web.jp/
+  lives:
+    - id: 105
+      name: U-EXPRESS LIVE 2013
+      open: 2013/03/02 12:00
+      start: 2013/03/02 14:00
+      place: 幕張メッセ国際展示場9・10・11ホール
+    - id: 106
+      name: TOKYO METROPOLITAN ROCK FESTIVAL 2013
+      open: 2013/05/26 10:00
+      start: 2013/05/26 10:00
+      place: 新木場・若洲公園
+    - id: 113
+      name: ULTRA KOREA 2013
+      open: 2013/06/14 10:00
+      start: 2013/06/14 10:00
+      place: "韓国：JAMSIL OLYMPIC COMPLEX"
+      place_for_search: "JAMSIL OLYMPIC COMPLEX, 10 Jamsil-dong, Songpa-gu, Seoul, 大韓民国"
+    - id: 114
+      name: Amuse 35th Anniversary BBQ in つま恋 ～僕らのビートを喰らえコラ！～
+      open: 2013/07/13 09:00
+      start: 2013/07/13 12:00
+      place: ヤマハリゾートつま恋
+    - id: 115
+      name: Amuse 35th Anniversary BBQ in つま恋 ～僕らのビートを喰らえコラ！～
+      open: 2013/07/14 09:00
+      start: 2013/07/14 12:00
+      place: ヤマハリゾートつま恋
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #prfm
+ずっと好きだったんじゃけぇ～さすらいの麺カタPerfume FES!!:
+  id: 5
+  is_mixed_tour: 1
+  access_key: perfume-taiban-fes-2013
+  artist: Perfume
+  description: http://www.perfume-web.jp/
+  lives:
+    - id: 107
+      name: Zepp DiverCity with 斉藤和義
+      open: 2013/05/29 18:00
+      start: 2013/05/29 19:00
+      place: Zepp DiverCity
+      place_for_search: "東京都江東区青海１丁目１ Zepp DiverCity (TOKYO)"
+    - id: 108
+      name: Zepp DiverCity with 斉藤和義
+      open: 2013/05/30 18:00
+      start: 2013/05/30 19:00
+      place: Zepp DiverCity
+      place_for_search: "東京都江東区青海１丁目１ Zepp DiverCity (TOKYO)"
+    - id: 109
+      name: Zepp Nagoya with 奥田民生
+      open: 2013/06/04 18:00
+      start: 2013/06/04 19:00
+      place: Zepp Nagoya
+    - id: 110
+      name: Zepp Nagoya with 奥田民生
+      open: 2013/06/05 18:00
+      start: 2013/06/05 19:00
+      place: Zepp Nagoya
+    - id: 111
+      name: Zepp Namba with マキシマム ザ ホルモン
+      open: 2013/06/17 18:00
+      start: 2013/06/17 19:00
+      place: Zepp Namba
+      place_for_search: "大阪府大阪市浪速区敷津東２丁目１−３９ Ｚｅｐｐ Ｎａｍｂａ（ＯＳＡＫＡ）"
+    - id: 112
+      name: Zepp Namba with マキシマム ザ ホルモン
+      open: 2013/06/18 18:00
+      start: 2013/06/18 19:00
+      place: Zepp Namba
+      place_for_search: "大阪府大阪市浪速区敷津東２丁目１−３９ Ｚｅｐｐ Ｎａｍｂａ（ＯＳＡＫＡ）"
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #prfm
+Perfume WORLD TOUR 2nd:
+  id: 6
+  access_key: perfume-world-tour-2nd
+  artist: Perfume
+  description: http://www.perfume-global.com/
+  lives:
+    - id: 116
+      name: ドイツ: GLORIA
+      open: 2013/07/04 02:00
+      start: 2013/07/04 03:00
+      place: GLORIA
+      place_for_search: "GLORIA, 50667 Cologne, Germany"
+    - id: 117
+      name: "イギリス: O2 Shepherd's Bush Empire"
+      open: 2013/07/06 03:00
+      start: 2013/07/06 04:00
+      place: "O2 Shepherd's Bush Empire"
+      place_for_search: "O2 Shepherd's Bush Empire, London W12 8TT, United Kingdom"
+    - id: 118
+      name: フランス: Le Bataclan
+      open: 2013/07/08 02:00
+      start: 2013/07/08 03:00
+      place: Le Bataclan
+      place_for_search: "Le Bataclan, 75011 Paris, France"
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #prfm
