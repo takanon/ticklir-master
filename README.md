@@ -1,4 +1,4 @@
-# Ticklir master yamls
+# Ticklir master YAMLs
 
-http://ticklir.bobpp.jp/ master yaml files. for Add master by others.
+http://ticklir.bobpp.jp/ master YAML files. for Add master by others.
 
