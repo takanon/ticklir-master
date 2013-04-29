@@ -1,0 +1,28 @@
+aibaka-release-campaign:
+  id: 7
+  access_key: aibaka-release-campaign
+  artist: Negicco
+  description: http://negicco.net/
+  lives:
+    - id: 119
+      name: アイパラIDOL PartyスペシャルVol.3~Negicco10thAnniversary~
+      open: 2013/05/03 16:30
+      start: 2013/07/04 17:00
+      place: 恵比寿ガーデンルーム
+    - id: 120
+      name: Negicco 2013 The Negi-Summit vol.2
+      open: 2013/05/04 16:00
+      start: 2013/07/06 17:00
+      place: "SOCIAL TV STATION 2.5D"
+      place_for_search: "東京都渋谷区宇田川町１５−１"
+    - id: 121
+      name: BANDAI EARTH FESTA（万代アースフェスタ）2013
+      open: 2013/05/05 12:00
+      start: 2013/05/05 13:00
+      place: Le Bataclan
+      place_for_search: "Le Bataclan, 75011 Paris, France"
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #prfm
+
