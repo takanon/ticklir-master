@@ -1,18 +1,19 @@
 Negicco 「アイドルばかり聴かないで」リリースイベント:
   id: 7
-  access_key: aibaka-release-campaign
+  is_mixed_tour: 1
+  access_key: negicco-aibaka-release-campaign
   artist: Negicco
   description: http://negicco.net/
   lives:
     - id: 119
       name: アイパラIDOL PartyスペシャルVol.3~Negicco10thAnniversary~
       open: 2013/05/03 16:30
-      start: 2013/07/04 17:00
+      start: 2013/05/03 17:00
       place: 恵比寿ガーデンルーム
     - id: 120
       name: Negicco 2013 The Negi-Summit vol.2
       open: 2013/05/04 11:00
-      start: 2013/07/06 16:00
+      start: 2013/05/04 16:00
       place: SOCIAL TV STATION 2.5D
       place_for_search: "東京都渋谷区宇田川町１５−１"
     - id: 121
@@ -23,7 +24,7 @@ Negicco 「アイドルばかり聴かないで」リリースイベント:
     - id: 122
       name: 松本ALECXxANTENNA presentsPARCO'N POP
       open: 2013/05/06 13:00
-      start: 2013/05/05 13:30
+      start: 2013/05/06 13:30
       place: 松本PARCO屋上特設ステージ
       place_for_search: "長野県松本市中央１丁目１０−３０"
     - id: 123
