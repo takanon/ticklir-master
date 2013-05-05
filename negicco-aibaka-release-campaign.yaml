@@ -20,7 +20,7 @@ Negicco 「アイドルばかり聴かないで」リリースイベント:
     - id: 121
       name: BANDAI EARTH FESTA（万代アースフェスタ）2013
       open: 2013/05/05 12:00
-      start: 2013/05/05 13:00
+      start: 2013/05/05 16:00
       place: 万代シティ
       place_for_search: "新潟県新潟市中央区万代１−６−１ 万代シティ"
     - id: 122
@@ -71,11 +71,30 @@ Negicco 「アイドルばかり聴かないで」リリースイベント:
       start: 2013/05/19 14:30
       place: 八木橋百貨店
       place_for_search: "埼玉県熊谷市仲町７４ 八木橋百貨店"
-#    - id: 130
-#      name: RELEASE 前夜祭!!
-#      open: 2013/05/28 18:30
-#      start: 2013/05/28 19:30
-#      place: GOLDENPIGS
+    - id: 130
+      name: RELEASE 前夜祭!!
+      open: 2013/05/28 18:30
+      start: 2013/05/28 19:30
+      place: GOLDENPIGS RED STAGE
+      place_for_search: "新潟県新潟市中央区東堀通６番町１０５１−１ GOLDENPIGS"	
+    - id: 131
+      name: ミニライブ＆特典会
+      open: 2013/05/29 18:30
+      start: 2013/05/29 19:00
+      place: タワーレコード渋谷店 CUTUP STUDIO
+      place_for_search: "東京都渋谷区神南１丁目２２−１４ タワーレコード渋谷店 CUTUP STUDIO"	  
+    - id: 132
+      name: Negicco 2013 The Negi-Summit vol.3
+      open: 2013/05/30 16:00
+      start: 2013/05/30 16:00
+      place: SOCIAL TV STATION 2.5D
+      place_for_search: "東京都渋谷区宇田川町１５−１ SOCIAL TV STATION 2.5D"
+	- id: 133
+      name: 発売記念インストアイベント
+      open: 2013/05/31 18:30
+      start: 2013/05/31 19:00
+      place: タワーレコード秋葉原店	  
+	  
   status:
     - 行きたい
     - 参加#important
