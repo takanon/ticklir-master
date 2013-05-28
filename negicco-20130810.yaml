@@ -11,4 +11,8 @@ Negicco ワンマンライブ:
       open: 2013/08/10 14:00
       start: 2013/08/10 14:00
       place: 新宿BLAZE
-      place_for_search: "東京都新宿区歌舞伎町１丁目２１−７"
+      place_for_search: "東京都新宿区歌舞伎町１丁目２１−７ 新宿BLAZE"
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #Negicco
