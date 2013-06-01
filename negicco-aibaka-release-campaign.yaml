@@ -116,24 +116,12 @@ Negicco 「アイドルばかり聴かないで」リリースイベント:
       start: 2013/06/02 15:10
       place: 新潟県立植物園園地
       place_for_search: "新潟県新潟市秋葉区金津１８６ 新潟県立植物園園地"
-    - id: 138
-      name: SAWA☆Debut 5th Anniversary バシバシ!! ワイワイ!! SAWAのカム着火祭
-      open: 2013/06/09 15:00
-      start: 2013/06/09 15:00
-      place: 渋谷Glad
-      place_for_search: "東京都渋谷区道玄坂2-21-7"
     - id: 139
       name: DaikanyamaLoopPresents 「NegiROAD Vol'5」
       open: 2013/06/23 17:00
       start: 2013/06/23 18:00
       place: 代官山LOOP
       place_for_search: "東京都渋谷区鉢山町１３−１２ 代官山LOOP"
-    - id: 144
-      name: YATSUI FESTIVAL 2013
-      open: 2013/06/22 12:30
-      start: 2013/06/22 12:30
-      place: 渋谷O-EAST
-      place_for_search: "東京都渋谷区道玄坂２−１４−８ Ｏ−ＥＡＳＴ"
   status:
     - 行きたい
     - 参加#important
