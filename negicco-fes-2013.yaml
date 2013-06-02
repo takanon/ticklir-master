@@ -41,6 +41,11 @@ Negicco in Festival 2013:
       start: 2013/07/28 10:00
       place: Zepp DiverCity
       place_for_search: "東京都江東区青海１丁目１ Zepp DiverCity (TOKYO)"
+    - id: 149
+      name: AOMORI ROCK FESTIVAL '13〜夏の魔物〜
+      open: 2013/09/14 06:30
+      start: 2013/09/14 07:00
+      place: 夜越山スキー場
   status:
     - 行きたい
     - 参加#important
