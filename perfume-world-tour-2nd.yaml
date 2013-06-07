@@ -22,6 +22,726 @@ Perfume WORLD TOUR 2nd:
       start: 2013/07/08 03:00
       place: Le Bataclan
       place_for_search: "Le Bataclan, 75011 Paris, France"
+    - id: 150
+      name: ユナイテッド・シネマ 札幌 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: ユナイテッド・シネマ 札幌
+      no_countdown_tweet: 1
+    - id: 151
+      name: シネプレックス旭川 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: シネプレックス旭川
+      no_countdown_tweet: 1
+    - id: 152
+      name: ワーナー・マイカル・シネマズ 福島 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: ワーナー・マイカル・シネマズ 福島
+      no_countdown_tweet: 1
+    - id: 153
+      name: TOHOシネマズ 日劇 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 日劇
+      no_countdown_tweet: 1
+    - id: 154
+      name: TOHOシネマズ 六本木ヒルズ : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 六本木ヒルズ
+      no_countdown_tweet: 1
+    - id: 155
+      name: お台場シネマメディアージュ : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: お台場シネマメディアージュ
+      no_countdown_tweet: 1
+    - id: 156
+      name: 新宿バルト9 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: 新宿バルト9
+      no_countdown_tweet: 1
+    - id: 157
+      name: TOHOシネマズ 渋谷 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 渋谷
+      no_countdown_tweet: 1
+    - id: 158
+      name: T・ジョイ大泉 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: T・ジョイ大泉
+      no_countdown_tweet: 1
+    - id: 159
+      name: ユナイテッド・シネマ 豊洲 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: ユナイテッド・シネマ 豊洲
+      no_countdown_tweet: 1
+    - id: 160
+      name: TOHOシネマズ 南大沢 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 南大沢
+      no_countdown_tweet: 1
+    - id: 161
+      name: TOHOシネマズ 府中 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 府中
+      no_countdown_tweet: 1
+    - id: 162
+      name: 横浜ブルク13 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: 横浜ブルク13
+      no_countdown_tweet: 1
+    - id: 163
+      name: TOHOシネマズ 川崎 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 川崎
+      no_countdown_tweet: 1
+    - id: 164
+      name: TOHOシネマズ 海老名 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 海老名
+      no_countdown_tweet: 1
+    - id: 165
+      name: シネプレックス幕張 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: シネプレックス幕張
+      no_countdown_tweet: 1
+    - id: 166
+      name: T・ジョイ蘇我 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: T・ジョイ蘇我
+      no_countdown_tweet: 1
+    - id: 167
+      name: TOHOシネマズ 市川コルトンプラザ : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 市川コルトンプラザ
+      no_countdown_tweet: 1
+    - id: 168
+      name: TOHOシネマズ 流山おおたかの森 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 流山おおたかの森
+      no_countdown_tweet: 1
+    - id: 169
+      name: シネプレックス水戸 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: シネプレックス水戸
+      no_countdown_tweet: 1
+    - id: 170
+      name: シネプレックスつくば : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: シネプレックスつくば
+      no_countdown_tweet: 1
+    - id: 171
+      name: MOVIX伊勢崎 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: MOVIX伊勢崎
+      no_countdown_tweet: 1
+    - id: 172
+      name: T・ジョイ新潟万代 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: T・ジョイ新潟万代
+      no_countdown_tweet: 1
+    - id: 173
+      name: 金沢コロナシネマワールド : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: 金沢コロナシネマワールド
+      no_countdown_tweet: 1
+    - id: 174
+      name: アイシティシネマ : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: アイシティシネマ
+      no_countdown_tweet: 1
+    - id: 175
+      name: 静岡東宝会館 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: 静岡東宝会館
+      no_countdown_tweet: 1
+    - id: 176
+      name: TOHOシネマズ サンストリート浜北 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ サンストリート浜北
+      no_countdown_tweet: 1
+    - id: 177
+      name: 109シネマズ名古屋 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: 109シネマズ名古屋
+      no_countdown_tweet: 1
+    - id: 178
+      name: 春日井コロナシネマワールド : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: 春日井コロナシネマワールド
+      no_countdown_tweet: 1
+    - id: 179
+      name: TOHOシネマズ 東浦 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 東浦
+      no_countdown_tweet: 1
+    - id: 180
+      name: TOHOシネマズ 梅田 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 梅田
+      no_countdown_tweet: 1
+    - id: 181
+      name: 梅田ブルク7 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: 梅田ブルク7
+      no_countdown_tweet: 1
+    - id: 182
+      name: TOHOシネマズ なんば : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ なんば
+      no_countdown_tweet: 1
+    - id: 183
+      name: シネプレックス枚方 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: シネプレックス枚方
+      no_countdown_tweet: 1
+    - id: 184
+      name: TOHOシネマズ 二条 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 二条
+      no_countdown_tweet: 1
+    - id: 185
+      name: T・ジョイ京都 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: T・ジョイ京都
+      no_countdown_tweet: 1
+    - id: 186
+      name: TOHOシネマズ 橿原 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 橿原
+      no_countdown_tweet: 1
+    - id: 187
+      name: 広島バルト11 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: 広島バルト11
+      no_countdown_tweet: 1
+    - id: 188
+      name: 福山コロナシネマワールド : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: 福山コロナシネマワールド
+      no_countdown_tweet: 1
+    - id: 189
+      name: T・ジョイ博多 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: T・ジョイ博多
+      no_countdown_tweet: 1
+    - id: 190
+      name: TOHOシネマズ 天神 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 天神
+      no_countdown_tweet: 1
+    - id: 191
+      name: T・ジョイリバーウォーク北九州 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: T・ジョイリバーウォーク北九州
+      no_countdown_tweet: 1
+    - id: 192
+      name: TOHOシネマズ 長崎 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 長崎
+      no_countdown_tweet: 1
+    - id: 193
+      name: シネプレックス熊本 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: シネプレックス熊本
+      no_countdown_tweet: 1
+    - id: 194
+      name: TOHOシネマズ 大分わさだ : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 大分わさだ
+      no_countdown_tweet: 1
+    - id: 195
+      name: TOHOシネマズ 与次郎 : ライブ
+      open: 2013/07/06 04:00
+      start: 2013/07/06 04:00
+      place: TOHOシネマズ 与次郎
+      no_countdown_tweet: 1
+    - id: 196
+      name: 札幌シネマフロンティア : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: 札幌シネマフロンティア
+      no_countdown_tweet: 1
+    - id: 197
+      name: シネプレックス旭川 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: シネプレックス旭川
+      no_countdown_tweet: 1
+    - id: 198
+      name: フォーラム盛岡 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: フォーラム盛岡
+      no_countdown_tweet: 1
+    - id: 199
+      name: フォーラム山形 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: フォーラム山形
+      no_countdown_tweet: 1
+    - id: 200
+      name: 109シネマズ富谷 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: 109シネマズ富谷
+      no_countdown_tweet: 1
+    - id: 201
+      name: MOVIX仙台 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: MOVIX仙台
+      no_countdown_tweet: 1
+    - id: 202
+      name: お台場シネマメディアージュ : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: お台場シネマメディアージュ
+      no_countdown_tweet: 1
+    - id: 203
+      name: 品川プリンスシネマ : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: 品川プリンスシネマ
+      no_countdown_tweet: 1
+    - id: 204
+      name: 渋谷HUMAXシネマ : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: 渋谷HUMAXシネマ
+      no_countdown_tweet: 1
+    - id: 205
+      name: ワーナー・マイカル・シネマズ 板橋 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: ワーナー・マイカル・シネマズ 板橋
+      no_countdown_tweet: 1
+    - id: 206
+      name: ユナイテッド・シネマ 豊洲 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: ユナイテッド・シネマ 豊洲
+      no_countdown_tweet: 1
+    - id: 207
+      name: TOHOシネマズ 西新井 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 西新井
+      no_countdown_tweet: 1
+    - id: 208
+      name: TOHOシネマズ 府中 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 府中
+      no_countdown_tweet: 1
+    - id: 209
+      name: ワーナー・マイカル・シネマズ むさし村山 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: ワーナー・マイカル・シネマズ むさし村山
+      no_countdown_tweet: 1
+    - id: 210
+      name: 横浜ブルク13 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: 横浜ブルク13
+      no_countdown_tweet: 1
+    - id: 211
+      name: TOHOシネマズ ららぽーと横浜 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ ららぽーと横浜
+      no_countdown_tweet: 1
+    - id: 212
+      name: TOHOシネマズ 川崎 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 川崎
+      no_countdown_tweet: 1
+    - id: 213
+      name: 109シネマズ湘南 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: 109シネマズ湘南
+      no_countdown_tweet: 1
+    - id: 214
+      name: TOHOシネマズ 海老名 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 海老名
+      no_countdown_tweet: 1
+    - id: 215
+      name: シネプレックス幕張 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: シネプレックス幕張
+      no_countdown_tweet: 1
+    - id: 216
+      name: T・ジョイ蘇我 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: T・ジョイ蘇我
+      no_countdown_tweet: 1
+    - id: 217
+      name: TOHOシネマズ 市川コルトンプラザ : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 市川コルトンプラザ
+      no_countdown_tweet: 1
+    - id: 218
+      name: TOHOシネマズ 流山おおたかの森 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 流山おおたかの森
+      no_countdown_tweet: 1
+    - id: 219
+      name: ワーナー・マイカル・シネマズ 大宮 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: ワーナー・マイカル・シネマズ 大宮
+      no_countdown_tweet: 1
+    - id: 220
+      name: ワーナー・マイカル・シネマズ 春日部 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: ワーナー・マイカル・シネマズ 春日部
+      no_countdown_tweet: 1
+    - id: 221
+      name: MOVIXさいたま : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: MOVIXさいたま
+      no_countdown_tweet: 1
+    - id: 222
+      name: イオンシネマ越谷レイクタウン : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: イオンシネマ越谷レイクタウン
+      no_countdown_tweet: 1
+    - id: 223
+      name: シネプレックスわかば : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: シネプレックスわかば
+      no_countdown_tweet: 1
+    - id: 224
+      name: シネプレックス水戸 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: シネプレックス水戸
+      no_countdown_tweet: 1
+    - id: 225
+      name: TOHOシネマズ ひたちなか : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ ひたちなか
+      no_countdown_tweet: 1
+    - id: 226
+      name: シネプレックスつくば : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: シネプレックスつくば
+      no_countdown_tweet: 1
+    - id: 227
+      name: TOHOシネマズ 宇都宮 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 宇都宮
+      no_countdown_tweet: 1
+    - id: 228
+      name: MOVIX伊勢崎 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: MOVIX伊勢崎
+      no_countdown_tweet: 1
+    - id: 229
+      name: ワーナー・マイカル・シネマズ 新潟 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: ワーナー・マイカル・シネマズ 新潟
+      no_countdown_tweet: 1
+    - id: 230
+      name: T・ジョイ長岡 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: T・ジョイ長岡
+      no_countdown_tweet: 1
+    - id: 231
+      name: 金沢コロナシネマワールド : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: 金沢コロナシネマワールド
+      no_countdown_tweet: 1
+    - id: 232
+      name: TOHOシネマズ ファボーレ富山 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ ファボーレ富山
+      no_countdown_tweet: 1
+    - id: 233
+      name: アイシティシネマ : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: アイシティシネマ
+      no_countdown_tweet: 1
+    - id: 234
+      name: TOHOシネマズ 甲府 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 甲府
+      no_countdown_tweet: 1
+    - id: 235
+      name: 静岡東宝会館 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: 静岡東宝会館
+      no_countdown_tweet: 1
+    - id: 236
+      name: TOHOシネマズ サンストリート浜北 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ サンストリート浜北
+      no_countdown_tweet: 1
+    - id: 237
+      name: 109シネマズ名古屋 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: 109シネマズ名古屋
+      no_countdown_tweet: 1
+    - id: 238
+      name: ワーナー・マイカル・シネマズ 大高 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: ワーナー・マイカル・シネマズ 大高
+      no_countdown_tweet: 1
+    - id: 239
+      name: TOHOシネマズ 名古屋ベイシティ : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 名古屋ベイシティ
+      no_countdown_tweet: 1
+    - id: 240
+      name: 春日井コロナシネマワールド : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: 春日井コロナシネマワールド
+      no_countdown_tweet: 1
+    - id: 241
+      name: TOHOシネマズ 東浦 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 東浦
+      no_countdown_tweet: 1
+    - id: 242
+      name: MOVIX三好 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: MOVIX三好
+      no_countdown_tweet: 1
+    - id: 243
+      name: シネプレックス岡崎 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: シネプレックス岡崎
+      no_countdown_tweet: 1
+    - id: 244
+      name: ワーナー・マイカル・シネマズ 各務原 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: ワーナー・マイカル・シネマズ 各務原
+      no_countdown_tweet: 1
+    - id: 245
+      name: ワーナー・マイカル･シネマズ 鈴鹿 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: ワーナー・マイカル･シネマズ 鈴鹿
+      no_countdown_tweet: 1
+    - id: 246
+      name: 梅田ブルク7 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: 梅田ブルク7
+      no_countdown_tweet: 1
+    - id: 247
+      name: TOHOシネマズ なんば : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ なんば
+      no_countdown_tweet: 1
+    - id: 248
+      name: TOHOシネマズ 鳳 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 鳳
+      no_countdown_tweet: 1
+    - id: 249
+      name: シネプレックス枚方 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: シネプレックス枚方
+      no_countdown_tweet: 1
+    - id: 250
+      name: TOHOシネマズ 二条 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 二条
+      no_countdown_tweet: 1
+    - id: 251
+      name: T・ジョイ京都 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: T・ジョイ京都
+      no_countdown_tweet: 1
+    - id: 252
+      name: 109シネマズHAT神戸 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: 109シネマズHAT神戸
+      no_countdown_tweet: 1
+    - id: 253
+      name: TOHOシネマズ 西宮OS : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 西宮OS
+      no_countdown_tweet: 1
+    - id: 254
+      name: TOHOシネマズ 伊丹 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 伊丹
+      no_countdown_tweet: 1
+    - id: 255
+      name: ワーナー・マイカル・シネマズ 加古川 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: ワーナー・マイカル・シネマズ 加古川
+      no_countdown_tweet: 1
+    - id: 256
+      name: TOHOシネマズ 橿原 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 橿原
+      no_countdown_tweet: 1
+    - id: 257
+      name: TOHOシネマズ 岡南 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 岡南
+      no_countdown_tweet: 1
+    - id: 258
+      name: 109シネマズ広島 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: 109シネマズ広島
+      no_countdown_tweet: 1
+    - id: 259
+      name: 福山コロナシネマワールド : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: 福山コロナシネマワールド
+      no_countdown_tweet: 1
+    - id: 260
+      name: シネマサンシャイン衣山 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: シネマサンシャイン衣山
+      no_countdown_tweet: 1
+    - id: 261
+      name: ワーナー・マイカル・シネマズ 宇多津 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: ワーナー・マイカル・シネマズ 宇多津
+      no_countdown_tweet: 1
+    - id: 262
+      name: T・ジョイ博多 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: T・ジョイ博多
+      no_countdown_tweet: 1
+    - id: 263
+      name: TOHOシネマズ 天神 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 天神
+      no_countdown_tweet: 1
+    - id: 264
+      name: T・ジョイ久留米 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: T・ジョイ久留米
+      no_countdown_tweet: 1
+    - id: 265
+      name: TOHOシネマズ 長崎 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 長崎
+      no_countdown_tweet: 1
+    - id: 266
+      name: シネプレックス熊本 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: シネプレックス熊本
+      no_countdown_tweet: 1
+    - id: 267
+      name: TOHOシネマズ 大分わさだ : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 大分わさだ
+      no_countdown_tweet: 1
+    - id: 268
+      name: TOHOシネマズ 与次郎 : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: TOHOシネマズ 与次郎
+      no_countdown_tweet: 1
+    - id: 269
+      name: ミハマ7プレックス : ディレイ
+      open: 2013/07/06 18:00
+      start: 2013/07/06 18:00
+      place: ミハマ7プレックス
+      no_countdown_tweet: 1
   status:
     - 行きたい
     - 参加#important
