@@ -1,0 +1,53 @@
+Negicco in Festival 2013:
+  id: 10
+  is_mixed_tour: 1
+  access_key: negicco-fes-2013
+  artist: Negicco
+  description: http://negicco.net/
+  lives:
+    - id: 138
+      name: SAWA☆Debut 5th Anniversary バシバシ!! ワイワイ!! SAWAのカム着火祭
+      open: 2013/06/09 15:00
+      start: 2013/06/09 15:00
+      place: 渋谷Glad
+      place_for_search: "東京都渋谷区道玄坂2-21-7"
+    - id: 144
+      name: YATSUI FESTIVAL 2013
+      open: 2013/06/22 12:30
+      start: 2013/06/22 12:30
+      place: 渋谷O-EAST
+      place_for_search: "東京都渋谷区道玄坂２−１４−８ Ｏ−ＥＡＳＴ"
+    - id: 145
+      name: ご当地キティ15周年アニバーサリー・スペシャルライブ 第一部
+      open: 2013/08/18 10:30
+      start: 2013/08/18 11:00
+      place: サンリオピューロランド エンターテイメントホール
+      place_for_search: "東京都多摩市落合１−３１ サンリオピューロランド エンターテイメントホール"
+    - id: 146
+      name: ご当地キティ15周年アニバーサリー・スペシャルライブ 第二部
+      open: 2013/08/18 15:20
+      start: 2013/08/18 15:50
+      place: サンリオピューロランド エンターテイメントホール
+      place_for_search: "東京都多摩市落合１−３１ サンリオピューロランド エンターテイメントホール"
+    - id: 147
+      name: TOKYO IDOL FESTIVAL 2013 Day.1
+      open: 2013/07/27 10:00
+      start: 2013/07/27 10:00
+      place: Zepp DiverCity
+      place_for_search: "東京都江東区青海１丁目１ Zepp DiverCity (TOKYO)"
+    - id: 148
+      name: TOKYO IDOL FESTIVAL 2013 Day.2
+      open: 2013/07/28 10:00
+      start: 2013/07/28 10:00
+      place: Zepp DiverCity
+      place_for_search: "東京都江東区青海１丁目１ Zepp DiverCity (TOKYO)"
+    - id: 149
+      name: AOMORI ROCK FESTIVAL '13〜夏の魔物〜
+      open: 2013/09/14 06:30
+      start: 2013/09/14 07:00
+      place: 夜越山スキー場
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #Negicco
+
