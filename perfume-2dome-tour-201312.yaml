@@ -1,0 +1,27 @@
+Perfume 2Dome Lives:
+  id: 10
+  access_key: perfume-2dome-201312
+  artist: Perfume
+  description: http://www.perfume-web.jp/
+  lives:
+    - id: 275
+      open: 2013/12/07 17:00
+      start: 2013/12/07 18:00
+      place: 京セラドーム
+    - id: 276
+      open: 2013/12/08 17:00
+      start: 2013/12/08 18:00
+      place: 京セラドーム
+    - id: 277
+      open: 2013/12/24 17:00
+      start: 2013/12/24 18:00
+      place: 東京ドーム
+    - id: 278
+      open: 2013/12/25 17:00
+      start: 2013/12/25 18:00
+      place: 東京ドーム
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #prfm
+
