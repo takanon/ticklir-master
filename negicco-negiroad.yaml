@@ -1,0 +1,28 @@
+Negicco Daikanyama Loop Present's 「Negi ROAD」:
+  id: 12
+  access_key: negicco-negiroad
+  artist: Negicco
+  description: http://negicco.net/
+  lives:
+    - id: 127
+      name: Vol'4
+      open: 2013/05/25 17:00
+      start: 2013/05/25 18:00
+      place: 代官山LOOP
+      place_for_search: "東京都渋谷区鉢山町１３−１２ 代官山LOOP"
+    - id: 139
+      name: Vol'5
+      open: 2013/06/23 17:00
+      start: 2013/06/23 18:00
+      place: 代官山LOOP
+      place_for_search: "東京都渋谷区鉢山町１３−１２ 代官山LOOP"
+    - id: 279
+      name: extra edition ～Negicco 10th Anniversary Party!!! ～
+      open: 2013/07/21 17:00
+      start: 2013/07/21 18:00
+      place: 代官山LOOP
+      place_for_search: "東京都渋谷区鉢山町１３−１２ 代官山LOOP"
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #Negicco
