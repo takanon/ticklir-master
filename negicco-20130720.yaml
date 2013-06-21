@@ -1,0 +1,16 @@
+Negicco まつり湯特別企画（祝）10周年おめでとうNegicco大生誕祭:
+  id: 14
+  is_single_live: 1
+  access_key: negicco-20130720
+  artist: Negicco
+  description: http://negicco.net/
+  lives:
+    - id: 281
+      open: 2013/07/20 10:30
+      start: 2013/07/20 13:00
+      place: 浅草ROXまつり湯
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #Negicco
+
