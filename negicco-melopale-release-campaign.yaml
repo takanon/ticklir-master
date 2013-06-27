@@ -1,0 +1,39 @@
+Negicco 「MelodyPalette」リリースイベント:
+  id: 15
+  is_mixed_tour: 1
+  access_key: negicco-melopale-release-campaign
+  artist: Negicco
+  description: http://negicco.net/
+  lives:
+    - id: 283
+      name: 南波一海のアイドル三十六房特別編～Negicco「MelodyPalette」先行試聴会～
+      open: 2013/07/07 17:30
+      start: 2013/07/07 18:00
+      place: タワーレコード渋谷店 CUTUP STUDIO
+      place_for_search: "東京都渋谷区神南１丁目２２−１４ タワーレコード渋谷店 CUTUP STUDIO"
+    - id: 284
+      name: 発売前夜祭
+      open: 2013/07/16 19:00
+      start: 2013/07/16 19:00
+      place: 新潟日報メディアシップMEDIA SHIP
+      place_for_search: "新潟市中央区万代３丁目１番１号"
+    - id: 285
+      name: 発売記念インストアイベント～発売日は１時間ライブやります！～
+      open: 2013/07/17 18:30
+      start: 2013/07/17 19:00
+      place: タワーレコード渋谷店 CUTUP STUDIO
+      place_for_search: "東京都渋谷区神南１丁目２２−１４ タワーレコード渋谷店 CUTUP STUDIO"
+    - id: 286
+      name: 発売記念インストアイベント～2DAYS～ Day.1
+      open: 2013/07/18 19:00
+      start: 2013/07/18 19:00
+      place: タワーレコード新宿店
+    - id: 287
+      name: 発売記念インストアイベント～2DAYS～ Day.2
+      open: 2013/07/19 20:00
+      start: 2013/07/19 20:00
+      place: タワーレコード新宿店
+  status:
+    - 行きたい
+    - 参加#important
+  twitter_tag: #Negicco
