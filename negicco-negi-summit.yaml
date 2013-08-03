@@ -28,6 +28,12 @@ Negicco 2013 The Negi-Summit:
       start: 2013/07/15 13:00
       place: SOCIAL TV STATION 2.5D
       place_for_search: "東京都渋谷区宇田川町１５−１ パルコ渋谷店"
+    - id: 291
+      name: vol.5
+      open: 2013/08/17 12:30
+      start: 2013/08/17 13:00
+      place: SOCIAL TV STATION 2.5D
+      place_for_search: "東京都渋谷区宇田川町１５−１ パルコ渋谷店"
   status:
     - 行きたい
     - 参加#important
