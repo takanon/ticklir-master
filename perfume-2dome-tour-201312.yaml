@@ -8,20 +8,33 @@ Perfume 4th Tour in DOME ｢LEVEL3｣ supported by チョコラ ＢＢ:
       open: 2013/12/07 15:00
       start: 2013/12/07 17:00
       place: 京セラドーム
+      use_in_day_countdown: 1
+      use_daily_countdown: 1
+      daily_countdown_start_remain_days: 45
     - id: 276
       open: 2013/12/08 14:00
       start: 2013/12/08 16:00
       place: 京セラドーム
+      use_in_day_countdown: 1
+      use_daily_countdown: 1
+      daily_countdown_start_remain_days: 0
     - id: 277
       open: 2013/12/24 16:00
       start: 2013/12/24 18:00
       place: 東京ドーム
+      use_in_day_countdown: 1
+      use_daily_countdown: 1
+      daily_countdown_start_remain_days: 16
     - id: 278
       open: 2013/12/25 16:00
       start: 2013/12/25 18:00
       place: 東京ドーム
+      use_in_day_countdown: 1
+      use_daily_countdown: 1
+      daily_countdown_start_remain_days: 0
   status:
     - 行きたい
     - 参加#important
   twitter_tag: #prfm
+  maintenance_twitter_account_alias: Ticklir
 
