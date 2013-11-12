@@ -40,6 +40,12 @@ Negicco Negi ROAD:
       start: 2013/10/27 17:00
       place: 代官山LOOP
       place_for_search: "東京都渋谷区鉢山町１３−１２ 代官山LOOP"
+    - id: 297
+      name: Vol'9
+      open: 2013/11/24 16:00
+      start: 2013/11/24 17:00
+      place: 代官山LOOP
+      place_for_search: "東京都渋谷区鉢山町１３−１２ 代官山LOOP"
   status:
     - 行きたい
     - 参加#important
