@@ -1,0 +1,54 @@
+Perfume FES!! 2014:
+  id: 16
+  is_mixed_tour: 1
+  access_key: perfume-taiban-fes-2014
+  artist: Perfume
+  description: http://www.perfume-web.jp/
+  lives:
+    - id: 290
+      name: 東京・NHKホール with 東京スカパラダイスオーケストラ
+      open: 2014/03/15 17:30
+      start: 2014/03/15 18:30
+      place: NHKホール
+    - id: 291
+      name: 東京・NHKホール with RIP SLYME
+      open: 2014/03/16 17:30
+      start: 2014/03/16 18:30
+      place: NHKホール
+    - id: 292
+      name: 広島・上野学園ホール with 9nine
+      open: 2014/03/20 18:00
+      start: 2014/03/20 18:30
+      place: 上野学園ホール
+    - id: 293
+      name: 広島・上野学園ホール with 9nine
+      open: 2014/03/21 18:00
+      start: 2014/03/21 18:30
+      place: 上野学園ホール
+    - id: 294
+      name: 静岡・静岡市民文化会館 with 9mm Parabellum Bullet
+      open: 2014/04/04 18:00
+      start: 2014/04/04 18:30
+      place: 静岡市民文化会館
+    - id: 295
+      name: 石川・本多の森ホール with RHYMESTER
+      open: 2014/04/07 18:00
+      start: 2014/04/07 18:30
+      place: 本多の森ホール
+    - id: 296
+      name: 香川・アルファあなぶきホール with 秦 基博
+      open: 2014/04/09 18:00
+      start: 2014/04/09 18:30
+      place: アルファあなぶきホール
+    - id: 297
+      name: 鹿児島・鹿児島市民文化ホール第一 with 高橋 優
+      open: 2014/04/11 18:00
+      start: 2014/04/11 18:30
+      place: 鹿児島市民文化ホール第一
+    - id: 298
+      name: 韓国・UNIQLO-AX with マキシマム ザ ホルモン
+      open: 2014/04/20 18:00
+      start: 2014/04/20 19:00
+      place: UNIQLO-AX
+  twitter_tag: #prfm
+
